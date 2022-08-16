@@ -1,6 +1,8 @@
 # Hi there, I'm Romain - aka RoMTHoS 👋 
 
-## I'm a Javascript Developer, and Freelancer!!
+## I'm a Web Developer, and Freelancer!!
+
+### I specialize in Javascript mainly with react
 
 ### Languages and Tools:
 
