@@ -16,7 +16,7 @@
 
   <!-- REACT -->
 
-   <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="react" width="40" height="40"/>
+   <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon.png" alt="react" width="40" height="40"/>
 
   <!-- Next -->
 
