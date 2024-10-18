@@ -16,7 +16,7 @@
 
   <!-- REACT -->
 
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&psig=AOvVaw2JapJm-RUfW89hIv0Hevdm&ust=1729336829861000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjOue7nl4kDFQAAAAAdAAAAABAE" alt="react" width="40" height="40"/>
+   <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/>
 
   <!-- Next -->
 
