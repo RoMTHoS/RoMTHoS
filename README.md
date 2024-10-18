@@ -2,8 +2,6 @@
 
 ## 👨🏻‍💻 Front-end developer <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>
 
-### Languages and Tools
-
  <div align='center'>
 
  <!-- JavaScript -->
@@ -16,7 +14,7 @@
 
   <!-- REACT -->
 
-   <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/>
+   <img src="./React.svg" alt="react" width="40" height="40"/>
 
   <!-- Next -->
 
