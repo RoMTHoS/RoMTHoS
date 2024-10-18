@@ -16,7 +16,7 @@
 
   <!-- REACT -->
 
-   <img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" alt="react" width="40" height="40"/>
+   <img src="https://e7.pngegg.com/pngimages/831/155/png-clipart-game-react-native-javascript-android-physics-symmetry-web-application-thumbnail.png" alt="react" width="40" height="40"/>
 
   <!-- Next -->
 
