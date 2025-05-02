@@ -1,48 +1,6 @@
- <div align='center'>
-
-## 👨🏻‍💻 Front-end developer <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>
-
- <div align='center'>
-
- <!-- JavaScript -->
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  
- <!-- TypeScript -->
-
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" />
-
-  <!-- REACT -->
-
-   <img src="./React.svg" alt="react" width="40" height="40"/>
-
-  <!-- Next -->
-
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40" />
-
-  <!-- REDUX -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-
-  <!-- HTML -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-
-  <!-- CSS -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-
-  <!-- GIT -->
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
- </div>
  
 ![GOL_Github-2025-05-02_09 30](https://github.com/user-attachments/assets/f8876ac3-643f-4c09-9ba3-2da3a2cf28d4)
 
- ### Contacts
-
- 
 <p align="center">
  
   <a href="https://www.linkedin.com/in/romain-matheos-12153616b/" target="_blank"
